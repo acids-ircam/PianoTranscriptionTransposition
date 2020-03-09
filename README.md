@@ -1,2 +1,3 @@
-# amt_ismir2020
-anonymized repository to host the ISMIR 2020 submission entitled "AUTOMATIC MUSIC TRANSCRIPTION USING SPECTRAL LOSS AND ITS APPLICATION FOR AUTOMATIC MUSIC TIMBRE-BASED ARRANGEMENT"
+Anonymously hosting additional materials for the submission to the International Computer Music Conference 2020 entitled "Neural Granular Sound Synthesis".
+
+[webpage](https://anonymized124.github.io/neural_granular_synthesis/)
