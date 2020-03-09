@@ -1,3 +1,1 @@
-Anonymously hosting additional materials for the submission to the International Computer Music Conference 2020 entitled "Neural Granular Sound Synthesis".
-
-[webpage](https://anonymized124.github.io/neural_granular_synthesis/)
+[webpage](https://anonymized000.github.io/amt_ismir2020/)
