@@ -41,6 +41,6 @@ and edit style.css for the size
 
 &nbsp;
 
-## AUTOMATIC MUSIC TRANSCRIPTION USING SPECTRAL LOSS AND ITS APPLICATION FOR AUTOMATIC MUSIC TIMBRE-BASED ARRANGEMENT
+## Under construction
 
-under construction
+...
