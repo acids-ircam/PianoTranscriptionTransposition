@@ -29,11 +29,11 @@ The sound of a organ is stationary.
 
 |Original sound|Arrangement|
 |:-:|:-:|
-|<img src="data/arrangement/jupiter_original_orchestra.png"><br><audio controls><source src="data/arrangement/jupiter_original_orchestra.wav"></audio>|<img src="data/arrangement/jupiter_generated_strings.png"><br><audio controls><source src="data/arrangement/jupiter_generated_strings.wav"></audio>|
+|<img src="data/arrangement/jupiter_original_orchestra.png"><br><audio controls><source src="data/arrangement/jupiter_original_orchestra.wav"></audio>|<img src="data/arrangement/jupiter_generated_organ.png"><br><audio controls><source src="data/arrangement/jupiter_generated_organ.wav"></audio>|
 
 ## Orchestra to piano (Haydn - Menuet)
 The sound of a piano is non-stationary.
 
 |Original sound|Arrangement|
 |:-:|:-:|
-|<img src="data/arrangement/haydn_original_orchestra.png"><br><audio controls><source src="data/arrangement/haydn_original_orchestra.wav"></audio>|<img src="data/arrangement/haydn_generated_strings.png"><br><audio controls><source src="data/arrangement/haydn_generated_strings.wav"></audio>|
+|<img src="data/arrangement/haydn_original_orchestra.png"><br><audio controls><source src="data/arrangement/haydn_original_orchestra.wav"></audio>|<img src="data/arrangement/haydn_generated_piano.png"><br><audio controls><source src="data/arrangement/haydn_generated_piano.wav"></audio>|
