@@ -1,19 +1,19 @@
 <link href="style.css" rel="stylesheet">
 
-<script type="text/javascript"> 
-      // Show button
-      function look(type){ 
-      param=document.getElementById(type); 
-      if(param.style.display == "none") param.style.display = "block"; 
-      else param.style.display = "none" 
-      } 
-</script>
-
 # Overview
 We propose a model to improve automatic music transcription by adding a perceptual objective using differentiable rendering, 
 while permitting automatic timbre-based arrangement to different musical instruments from the original.
 
 # Transcription
+
+## Bach - Prelude in C Major, BWV 846
+
+|Original data|Transcription|
+|:-:|:-:|
+|Input waveform<br><audio controls><source src="data/transcription/test_MAPS_MUS-bach_846_AkPnBcht_org.wav"></audio>||
+|GT piano-roll<br><img src="data/transcription/test_MAPS_MUS-bach_846_AkPnBcht_gt.png">|Predicted piano-roll<br><img src="data/transcription/test_MAPS_MUS-bach_846_AkPnBcht.png">|
+||Predicted onset matrix<br><img src="data/transcription/test_MAPS_MUS-bach_846_AkPnBcht_onset.png">|
+|Rendered from GT piano-roll<br><audio controls><source src="data/transcription/test_MAPS_MUS-bach_846_AkPnBcht_gt.wav"></audio>|Rendered from predicted piano-roll<br><audio controls><source src="data/transcription/test_MAPS_MUS-bach_846_AkPnBcht.wav"></audio>|
 
 # Arrangement
 
