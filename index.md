@@ -10,10 +10,28 @@ while permitting automatic timbre-based arrangement to different musical instrum
 
 |Original data|Transcription|
 |:-:|:-:|
-|Input waveform<br><audio controls><source src="data/transcription/test_MAPS_MUS-bach_846_AkPnBcht_org.wav"></audio>||
-|GT piano-roll<br><img src="data/transcription/test_MAPS_MUS-bach_846_AkPnBcht_gt.png">|Predicted piano-roll<br><img src="data/transcription/test_MAPS_MUS-bach_846_AkPnBcht.png">|
+|Input waveform<br><audio controls><source src="data/transcription/MAPS_MUS-bach_846_AkPnBcht.wav"></audio>||
+|Ground-truth piano-roll<br><img src="data/transcription/test_MAPS_MUS-bach_846_AkPnBcht_gt.png">|Predicted piano-roll<br><img src="data/transcription/test_MAPS_MUS-bach_846_AkPnBcht.png">|
 ||Predicted onset matrix<br><img src="data/transcription/test_MAPS_MUS-bach_846_AkPnBcht_onset.png">|
-|Rendered from GT piano-roll<br><audio controls><source src="data/transcription/test_MAPS_MUS-bach_846_AkPnBcht_gt.wav"></audio>|Rendered from predicted piano-roll<br><audio controls><source src="data/transcription/test_MAPS_MUS-bach_846_AkPnBcht.wav"></audio>|
+|Rendered from ground-truth piano-roll<br><audio controls><source src="data/transcription/test_MAPS_MUS-bach_846_AkPnBcht_gt.wav"></audio>|Rendered from predicted piano-roll<br><audio controls><source src="data/transcription/test_MAPS_MUS-bach_846_AkPnBcht.wav"></audio>|
+
+## Chopin - Fantaisie-Impromptu in C# minor, Op. 66
+
+|Original data|Transcription|
+|:-:|:-:|
+|Input waveform<br><audio controls><source src="data/transcription/MAPS_MUS-chpn_op66_AkPnBcht.wav"></audio>||
+|Ground-truth piano-roll<br><img src="data/transcription/test_MAPS_MUS-chpn_op66_AkPnBcht_gt.png">|Predicted piano-roll<br><img src="data/transcription/test_MAPS_MUS-chpn_op66_AkPnBcht.png">|
+||Predicted onset matrix<br><img src="data/transcription/test_MAPS_MUS-chpn_op66_AkPnBcht_onset.png">|
+|Rendered from ground-truth piano-roll<br><audio controls><source src="data/transcription/test_MAPS_MUS-chpn_op66_AkPnBcht_gt.wav"></audio>|Rendered from predicted piano-roll<br><audio controls><source src="data/transcription/test_MAPS_MUS-chpn_op66_AkPnBcht.wav"></audio>|
+
+## Schumann - Träumerei, "Kinderszenen" No. 7 in F major, Op. 15
+
+|Original data|Transcription|
+|:-:|:-:|
+|Input waveform<br><audio controls><source src="data/transcription/MAPS_MUS-scn15_7_AkPnBcht.wav"></audio>||
+|Ground-truth piano-roll<br><img src="data/transcription/test_MAPS_MUS-scn15_7_AkPnBcht_gt.png">|Predicted piano-roll<br><img src="data/transcription/test_MAPS_MUS-scn15_7_AkPnBcht.png">|
+||Predicted onset matrix<br><img src="data/transcription/test_MAPS_MUS-scn15_7_AkPnBcht_onset.png">|
+|Rendered from ground-truth piano-roll<br><audio controls><source src="data/transcription/test_MAPS_MUS-scn15_7_AkPnBcht_gt.wav"></audio>|Rendered from predicted piano-roll<br><audio controls><source src="data/transcription/test_MAPS_MUS-scn15_7_AkPnBcht.wav"></audio>|
 
 # Arrangement
 
