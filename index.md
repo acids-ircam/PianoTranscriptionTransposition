@@ -2,7 +2,7 @@
 
 # Overview
 We propose a model to improve automatic music transcription by adding a perceptual objective using differentiable rendering, 
-while permitting automatic timbre-based arrangement to different musical instruments from the original.
+while permitting automatic transposition to different musical instruments from the original.
 
 # Transcription
 
